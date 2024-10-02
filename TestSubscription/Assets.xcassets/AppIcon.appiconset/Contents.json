@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "Modern, minimalist icon with the letter ‘M’, bold typography. Use vibrant blue and green gradient, with a clean and simple design that conveys movement and communication..png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
